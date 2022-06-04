@@ -1,6 +1,6 @@
 # Olist Dashboard Demo
 
-Portfolio project to demostrate SQL and Tableau skills.
+Portfolio project to demonstrate SQL and Tableau skills.
 <br>
 The dataset used in this project is provided by [Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce).
 <br>
